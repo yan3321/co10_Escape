@@ -1,5 +1,7 @@
 # Escape 1.9
 
+![Image of Yaktocat](escape_banner.png)
+
 ## The mission (if you are playing as BLUFOR)
 
 In this mission you and your squad was send out to scout the military CSAT and AAF presence on Altis in preparation for 
